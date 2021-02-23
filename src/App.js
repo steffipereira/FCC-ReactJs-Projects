@@ -4,9 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        React App wire frame
-      </header>
+      <h4>Random Quote generator</h4>
     </div>
   );
 }
